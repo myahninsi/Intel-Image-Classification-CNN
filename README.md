@@ -36,13 +36,9 @@ This project implements a **Convolutional Neural Network (CNN)** for **multi-cla
 
 ## Repository Structure
 ```
-├── data/                # Dataset directory
-├── models/              # Trained model weights
-├── notebooks/           # Jupyter notebooks for EDA and training
-├── scripts/             # Python scripts for training/evaluation
+├── dataset/             # Dataset directory
+├── notebook/            # Jupyter notebook for EDA, training and evaluation
 ├── README.md            # Project documentation
-├── train.py             # Model training script
-├── evaluate.py          # Model evaluation script
 └── requirements.txt     # Dependencies
 ```
 
