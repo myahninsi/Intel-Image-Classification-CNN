@@ -38,8 +38,7 @@ This project implements a **Convolutional Neural Network (CNN)** for **multi-cla
 ```
 ├── dataset/             # Dataset directory
 ├── notebook/            # Jupyter notebook for EDA, training and evaluation
-├── README.md            # Project documentation
-└── requirements.txt     # Dependencies
+└── README.md            # Project documentation
 ```
 
 ## Credits
